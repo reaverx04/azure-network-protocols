@@ -93,10 +93,29 @@ Enabling and disabling accounts: Disable the previously used account in Active D
 </p>
 <p>
 <p>
-<img src="https://i.imgur.com/cbPr7Kp.pn" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/cbPr7Kp.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Attempt to log in with the account and observe the error message.
+
+<p>
+<img src="https://i.imgur.com/qIVyDf4.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 
+Re-enable the account and attempt to log in with it.
 
+<p>
+<img src="https://i.imgur.com/axvAFqA.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+<p>
+<img src="https://i.imgur.com/Jma4Vh7.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
 
+<p>
+<img src="https://i.imgur.com/GHu2ieO.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
 
